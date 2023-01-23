@@ -1,0 +1,58 @@
+.center{
+    width: 75%;
+    margin: 0px auto;
+}
+
+.clearfix{
+    clear:both;
+    float:none;
+}
+
+#content{
+    width: 70%;
+    float:left;
+    min-height: 650px;
+    margin-right: 20px;
+}
+
+.article-item{
+    width: 100%;
+    border-bottom: 1px solid #eee;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    text-align: left;
+}
+
+.article-item h2{
+    display: block;
+    width:100%;
+    padding: 0px;
+    margin: 0px;
+    margin-bottom: 7px;
+}
+
+.article-item .date{
+    display: block;
+    width: 100%;
+    color: rgb(122, 122, 122);
+}
+
+@media (max-width: 1488px){
+    /*Se ejecutarán estos estilos*/
+    .center{
+        width: 85%;
+    }
+}
+
+@media (max-width: 1314px){
+    .center{
+        width: 95%;
+    }
+}
+
+@media (max-width: 813px){
+    #content{
+        float:none;
+        width: 100%;
+    }
+}

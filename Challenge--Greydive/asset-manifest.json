@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.671ccb40.css",
+    "main.js": "/static/js/main.53fda711.js",
+    "static/js/787.b19f0581.chunk.js": "/static/js/787.b19f0581.chunk.js",
+    "static/media/greydive-logo.png": "/static/media/greydive-logo.a99ab99f50690b9d155d.png",
+    "index.html": "/index.html",
+    "main.671ccb40.css.map": "/static/css/main.671ccb40.css.map",
+    "main.53fda711.js.map": "/static/js/main.53fda711.js.map",
+    "787.b19f0581.chunk.js.map": "/static/js/787.b19f0581.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.671ccb40.css",
+    "static/js/main.53fda711.js"
+  ]
+}
